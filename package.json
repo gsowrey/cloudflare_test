@@ -20,6 +20,7 @@
   },
   "dependencies": {
     "@cloudflare/wrangler": "^1.19.4",
-    "coffeescript": "^2.6.1"
+    "coffeescript": "^2.6.1",
+    "jstransformer-handlebars": "^1.1.0"
   }
 }
